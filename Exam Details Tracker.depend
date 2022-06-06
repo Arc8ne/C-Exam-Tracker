@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1654514309 source:c:\c++ programs\exam details tracker\main.c
+	<stdio.h>
+	<stdlib.h>
+	"char_array_extras.h"
+
+1654514089 source:c:\c++ programs\exam details tracker\char_array_extras.c
+	<stdio.h>
+	<stdlib.h>
+
+1654514303 c:\c++ programs\exam details tracker\char_array_extras.h
+
